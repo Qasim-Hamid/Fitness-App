@@ -1,0 +1,280 @@
+{"Workout":
+  {
+    "Calisthenics":
+      {
+        "20-40 minute":
+          {
+            "Beginner":
+              {
+                "Day 1":
+                  {
+                    "Body Weight Squats": 20, "Incline Push-Ups" : 15, "Bodyweight rows": 15, "Knee Plank": 60
+                  },
+                "Day 2":
+                  {
+                    "Body Weight Squats": 20, "Incline Push-Ups" : 15, "Bodyweight rows": 15, "Knee Plank": 60
+                  },
+                "Day 3":
+                  {
+                    "Body Weight Squats": 20, "Incline Push-Ups" : 15, "Bodyweight rows": 15, "Knee Plank": 60
+                  }
+              },
+            "Intermediate":
+              {
+                "Day 1":
+                  {
+                    "Overhead Squats": 25, "Push-Ups": 15, "Pull-Ups": 8, "Plank": 75
+                  },
+                "Day 2":
+                  {
+                    "Overhead Squats": 25, "Push-Ups": 15, "Pull-Ups": 8, "Plank": 75
+                  },
+                "Day 3":
+                  {
+                    "Overhead Squats": 25, "Push-Ups": 15, "Pull-Ups": 8, "Plank": 75
+                  },
+                "Day 4":
+                  {
+                    "Overhead Squats": 25, "Push-Ups": 15, "Pull-Ups": 8, "Plank": 75
+                  }
+              },
+            "Advanced":
+              {
+                "Day 1":
+                  {
+                    "Jump Squats": 25, "Decline Push-Ups": 20, "Muscle-Ups": 8, "Plank Shoulder Touches": 90
+                  },
+                "Day 2":
+                  {
+                    "Jump Squats": 25, "Decline Push-Ups": 20, "Muscle-Ups": 8, "Plank Shoulder Touches": 90
+                  },
+                "Day 3":
+                  {
+                    "Jump Squats": 25, "Decline Push-Ups": 20, "Muscle-Ups": 8, "Plank Shoulder Touches": 90
+                  },
+                "Day 4":
+                  {
+                    "Jump Squats": 25, "Decline Push-Ups": 20, "Muscle-Ups": 8, "Plank Shoulder Touches": 90
+                  },
+                "Day 5":
+                  {
+                    "Jump Squats": 25, "Decline Push-Ups": 20, "Muscle-Ups": 8, "Plank Shoulder Touches": 90
+                  }
+              }
+          },
+        "40-60 minute":
+          {
+            "Beginner":
+              {
+                "Day 1":
+                  {
+                    "Body Weight Squats" : '20', "Incline Push-Ups": '10 - 15', "Bodyweight Rows (Underhand Grip)": '10 - 15', "Bodyweight Rows (Overhand Grip)": '10', "Straight Leg Bench Dips": '20', "Knee Plank": '60 seconds', "Burpees": '8'
+                  },
+                "Day 2":
+                  {
+                    "Body Weight Squats" : '20', "Incline Push-Ups": '10 - 15', "Bodyweight Rows (Underhand Grip)": '10 - 15', "Bodyweight Rows (Overhand Grip)": '10', "Straight Leg Bench Dips": '20', "Knee Plank": '60 seconds', "Burpees": '8'
+                  },
+                "Day 3":
+                  {
+                    "Body Weight Squats" : '20', "Incline Push-Ups": '10 - 15', "Bodyweight Rows (Underhand Grip)": '10 - 15', "Bodyweight Rows (Overhand Grip)": '10', "Straight Leg Bench Dips": '20', "Knee Plank": '60 seconds', "Burpees": '8'
+                  }
+              },
+            "Intermediate":
+              {
+                "Day 1":
+                  {
+                    "Overhead Squats": '25', "Push-Ups": '15', "Chin-Ups": '8 - 12', "Pull-Ups": '8 - 12', "Dips": '10', "Plank": '75 seconds', "Burpees": '12'
+                  },
+                "Day 2":
+                  {
+                    "Overhead Squats": '25', "Push-Ups": '15', "Chin-Ups": '8 - 12', "Pull-Ups": '8 - 12', "Dips": '10', "Plank": '75 seconds', "Burpees": '12'
+                  },
+                "Day 3":
+                  {
+                    "Overhead Squats": '25', "Push-Ups": '15', "Chin-Ups": '8 - 12', "Pull-Ups": '8 - 12', "Dips": '10', "Plank": '75 seconds', "Burpees": '12'
+                  },
+                "Day 4":
+                  {
+                    "Overhead Squats": '25', "Push-Ups": '15', "Chin-Ups": '8 - 12', "Pull-Ups": '8 - 12', "Dips": '10', "Plank": '75 seconds', "Burpees": '12'
+                  }
+              },
+            "Advanced":
+              {
+                "Day 1":
+                  {
+                    "Jump Squats": '25', "Decline Push-Ups": '20', "Chin-Ups": '12 - 16', "Pull-Ups": '12', "Dips": '15', "Plank Shoulder Touches": '90 seconds', "Burpees": '16'
+                  },
+                "Day 2":
+                  {
+                    "Jump Squats": '25', "Decline Push-Ups": '20', "Chin-Ups": '12 - 16', "Pull-Ups": '12', "Dips": '15', "Plank Shoulder Touches": '90 seconds', "Burpees": '16'
+                  },
+                "Day 3":
+                  {
+                    "Jump Squats": '25', "Decline Push-Ups": '20', "Chin-Ups": '12 - 16', "Pull-Ups": '12', "Dips": '15', "Plank Shoulder Touches": '90 seconds', "Burpees": '16'
+                  },
+                "Day 4":
+                  {
+                    "Jump Squats": '25', "Decline Push-Ups": '20', "Chin-Ups": '12 - 16', "Pull-Ups": '12', "Dips": '15', "Plank Shoulder Touches": '90 seconds', "Burpees": '16'
+                  },
+                "Day 5":
+                  {
+                    "Jump Squats": '25', "Decline Push-Ups": '20', "Chin-Ups": '12 - 16', "Pull-Ups": '12', "Dips": '15', "Plank Shoulder Touches": '90 seconds', "Burpees": '16'
+                  }
+              }
+          },
+        "Fat loss":
+          {
+            "Day 1":
+              {
+                "Step-ups": '30', "Plank": '30', "Bulgarian Lunges": '30', "Deadbug": '30', "Burpees": '30', "Single Leg Drop Squat": '30', "Push-Ups": '30', "Mountain Climbers": '30'
+              },
+            "Day 2":
+              {
+                "Step-ups": '30', "Plank": '30', "Bulgarian Lunges": '30', "Deadbug": '30', "Burpees": '30', "Single Leg Drop Squat": '30', "Push-Ups": '30', "Mountain Climbers": '30'
+              },
+            "Day 3":
+              {
+                "Step-ups": '30', "Plank": '30', "Bulgarian Lunges": '30', "Deadbug": '30', "Burpees": '30', "Single Leg Drop Squat": '30', "Push-Ups": '30', "Mountain Climbers": '30'
+              }
+          }
+      },
+  "Weights":
+    {
+      "40-60 minute":
+        {
+          "Beginner":
+            {
+              "Day 1":
+                {
+                  "Deadlift": "3 x 8-12", "Bench Press": "3 x 8-12", "Overhead Press": "3 x 8-10", "Squats": "3 x 8-12", "Bent Over Row": "3 x 8-12"
+                },
+              "Day 2":
+                {
+                  "Deadlift": "3 x 8-12", "Bench Press": "3 x 8-12", "Overhead Press": "3 x 8-10", "Squats": "3 x 8-12", "Bent Over Row": "3 x 8-12"
+                },
+              "Day 3":
+                {
+                  "Deadlift": "3 x 8-12", "Bench Press": "3 x 8-12", "Overhead Press": "3 x 8-10", "Squats": "3 x 8-12", "Bent Over Row": "3 x 8-12"
+                }
+              },
+            "Intermediate":
+            {
+              "Day 1":
+                {
+                  "Deadlift": "2 x 5", "One Arm Dumbbell Row": "3 x 8-12", "Lat Pull Down": "3 x 10-12", "Barbell Row": "3 x 8-12", "Seated Cable Row": "5 Minutes", "EZ Bar Preacher Curl": "10-12", "Concentration Curl": "10-12", "Seated Dumbbell Curl": "5 Minutes"
+                },
+              "Day 2":
+                {
+                  "Bench Press": "3 x 6-10", "Incline Dumbbell Press": "8-12", "Chest Dip": "Max reps", "Cable Crossover": "3 x 12-15", "Machine Press": "5 Minutes", "EZ Bar Skullcruhser": "3 x 8-12", "Two Arm Seated Dumbbell Extension": "8-12", "Cable Tricep Extension": "5 Minutes"
+                },
+              "Day 4":
+                {
+                  "Squat": "3 x 6-10", "Leg Press": "3 x 15-20", "Dumbbell Lunge": "3 x 8-12", "Leg Extension": "5 Minutes", "Stiff Leg Deadlift": "3 x 8-12", "Leg Curl" : "5 Minutes", "Standing Calf Raise": "3 x 10-12", "Seated Calf Raise": "5 Minutes"
+                },
+              "Day 5":
+                {
+                  "Seated Barbell Press": "3 x 6-10", "Seated Arnold Press": "3 x 8-12", "Dumbbell Lateral Raise": "3 X 10-15", "Smith Press": "5 Minutes", "Upright Row": "3 x 8-12", "Barbell Shrug": "5 Mintues", "Seated Barbell Wrist Curl": "3 x 12-15", "Barbell Static Hold": "5 Minutes"
+                },
+              },
+            "Advanced":
+              {
+                "Day 1":
+                  {
+                    "Military Press": "4 x 8-10", "Barbell Front Raise": "3 x 10", "Upright Row": "4 x 8", "Dumbbell Lateral Raise": "4 x 8", "Dumbbell Reverse Fly": "3 x 10", "Decline Sit Ups": "3 x Max"
+                  },
+                "Day 2":
+                  {
+                    "Standing Barbell Curl": "4 x 8", "Preacher Curls": "4 x 8", "Cable Curl": "4 x 8", "Close Grip Bench Press": "4 x 6", "Tricep Dip": "3 x Max", "Lying Tricep Extension": "4 x 8-10", "Barbell Wrist Curl": "3 x 10", "Hanging Leg Raise": "3 x Max"
+                  },
+                "Day 3":
+                  {
+                    "Squat": "5 x 5-7", "45 Degree Leg Press": "4 x 10", "Leg Extension": "4 x 8-10", "Leg Curl": "4 x 8-10", "Seated Calf Raise": "4 x 12-15", "45 Degree Calf Press": "4 x 10-12", "Hover": "3 x Max"
+                  },
+                "Day 4":
+                  {
+                    "Wide Grip Pull Up": "5 x 8-10", "Lat Pull Down": "4 x 10", "Seated Row": "4 x 10", "One Arm Dumbbell Row": "3 x 8", "Decline Abdominal Reach": "3 x Max"
+                  },
+                "Day 5":
+                  {
+                    "Barbell Bench Press": "5 x 6-10", "Incline Bench Press": "4 x 8", "Chest Dips": "4 x 8", "Dumbbell Flys": "4 x 10-12", "Excercise Ball Crunch": "3 x 20"
+                  }
+                }
+        },
+      "Fat loss":
+        {
+          "Day 1":
+            {
+              "Incline Bench Press": "3 x 8-10", "One Arm Dumbbell Row": "3 x 10-12", "Seated Barbell Press": "3 x 8-10", "Pull-Ups": "3 x 10", "Skullcruhsers": "3 x 10-12", "Dumbbell Curl": "3 x 10-12"
+            },
+          "Day 2":
+            {
+              "Squats": "3 x 8-10", "Leg Curl": "3 x 12-15", "Leg Extension": "3 x 12-15", "Leg Press Calf Raise": "3 x 15-20", " Plank": "1 Minute", "Twisting Hanging Knee Raise": "3 x 20"
+            },
+          "Day 4":
+            {
+              "Dumbbell Bench Press": "3 x 10", "Barbell Row": "3 x 8-10", "Dumbbell Lateral Raise": "3 x 12-15", "Lat Pull Down": "3 x 10-12", "Cable Tricep Extension": "3 x 10-12", "EZ Bar Preacher Curls": "3 x 10-12"
+            },
+          "Day 5":
+            {
+              "Leg Press": "3 x 15-20", "Stiff Leg Deadlift": "3 x 8-10", "Waking Dumbbell Lunge": "3 x 10", "Seated Calf Raise": "3 x 15-20", "Cable Crunch": "3 x 20", "Russian Twist": "3 x 20"
+            }
+        },
+      "20-40 minute":
+        {
+          "Beginner":
+            {
+              "Day 1":
+                {
+                  "Deadlift": "2 x 8-12", "Bench Press": "2 x 8-12", "Overhead Press": "2 x 8-10", "Squats": "2 x 8-12", "Bent Over Row": "2 x 8 - 12"
+                },
+              "Day 2":
+                {
+                  "Deadlift": "2 x 8-12", "Bench Press": "2 x 8-12", "Overhead Press": "2 x 8-10", "Squats": "2 x 8-12", "Bent Over Row": "2 x 8 - 12"
+                },
+              "Day 3":
+                {
+                  "Deadlift": "2 x 8-12", "Bench Press": "2 x 8-12", "Overhead Press": "2 x 8-10", "Squats": "2 x 8-12", "Bent Over Row": "2 x 8 - 12"
+                }
+            },
+          "Intermediate":
+            {
+              "Day 1":
+                {
+                  "Incline Dumbbell Press w/ Two-arm dumbbell row": "3 x 6-8", "Push-Ups (Decline, Incline, Floor) w/ Wide-grip Pull-Up": "3 x Max", "Dumbbell Upright Row w/ Dumbbell Shrug": "3 x 12", "Dumbbell Curl w/ Lying Dumbbell Extension": "3 x 12", "Crunches w/ Leg Raises": "3 x 15"
+                },
+              "Day 2":
+                {
+                  "Bulgarian Split Squat w/ Dumbbell Romanian Deadlift": "3 x 10", "Barbell Front Squat w/ Reverse Lunge": "3 x 8", "Leg Press Calf Raise w\ Calf Stretch": "3 x 15", "Bicycle Crunch w/ Plank": "3 x 15"
+                },
+              "Day 3":
+                {
+                  "Leg Extension w/ Seated Leg Curl": "3 x 15", "Barbell Bench Press w/ Reverse-Grip Chin-Up": "3 x 12", "Seated Dumbbell Side Lateral Raise w/ Bent-Over Dumbbell Lateral Raise": "3 x 15", "Barbell Curl w/ Parallel Bar Dip": "3 x 15", "Floor Crunch w/ Seated Calf Raise": "3 x 15"
+                }
+            },
+          "Advanced":
+            {
+              "Day 1":
+                {
+                  "Squat": "5 x 8-10", "45 Degree Leg Press": "3 x 12", "Stiff Leg Deadlift": "3 x 10", "Leg Curl": "3 x 10"
+                },
+              "Day 2":
+                {
+                  "Barbell Bench Press": "4 x 8-10", "Incline Dumbbell Bench Press": "4 x 10", "Pec Dec": "3 x 10", "Seated Calf Raise": "4 x 8-10"
+                },
+              "Day 3":
+                {
+                  "Seated Barbell Press": "4 x 10", "Dumbbell Lateral Raise": "3 x 10", "Cable Reverse Fly": "3 x 10"
+                },
+              "Day 4":
+                {
+                  "Lat Pull Down": "4 x 10", "Machine Row (Low Rows)": "4 x 10", "Reverse Grip Lat Pull Down (Drop Sets)": "3 x 10", "Barbell Shrug Superset w/ Bent Over Row": " 4 x 10"
+                },
+              "Day 5":
+                {
+                  "EZ Bar Skullcruhsers": "3 x 10", "Cable Tricep Extension (Drop Sets)": "3 x 12", "EZ Bar Preacher Curls": "4 x 10", "Standing Hammer Curl": "3 x 10"
+                }
+            }
+        }
+    }
+  }
+}
