@@ -1,5 +1,5 @@
 # Fitness-App
-- Creates a workout for a user based on their preferances, using tkinter to render graphics in the app. A website of this app is 
+- Creates a workout for a user based on their preferances, using tkinter to render graphics in the app. Uses a text file written in JSON format to choose a workout when the user is creating a workout. 
 
 # How to use
 
